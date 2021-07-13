@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+form{
+    text-align: center;
+    font-size: 18px;
+}
+
+input[type=text], input[type=password] {
+    width: 20%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+   
+}
+input[type=button] {
+    background-color: #4c7bc0;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 80px;
+}
+
+h1{
+    text-align: center;
+    padding-top: 50px;
+}
+
+.title-page-logado{
+    text-align: center;
+    padding-top: 50px; 
+}
